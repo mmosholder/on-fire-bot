@@ -1,0 +1,37 @@
+{
+  "nextFreeModuleId": 4,
+  "modules": {
+    "byIdentifier": {
+      "multi main": 0,
+      "node_modules/webpack/hot/signal.js": 1,
+      "node_modules/webpack/hot/log-apply-result.js": 2,
+      "node_modules/monkey-hot-loader/index.js!node_modules/babel-loader/lib/index.js!src/main.js": 3
+    }
+  },
+  "nextFreeChunkId": 1,
+  "chunks": {
+    "byName": {
+      "main": 0
+    },
+    "byBlocks": {}
+  },
+  "prepreHash": "x",
+  "preHash": "1d60f5739b335c9b39e3",
+  "hash": "bb2503bdf98c73dade60",
+  "moduleHashs": {
+    "multi main": "f2d9cb987d2ffca61b003ab18f9c6ef8",
+    "/Users/mmosholder/on-fire-bot/node_modules/webpack/hot/signal.js": "76bf5ea5788933e8a7dd2c8d335e8f27",
+    "/Users/mmosholder/on-fire-bot/node_modules/webpack/hot/log-apply-result.js": "7cd41a95be6ba16cefccb5d39036449c",
+    "/Users/mmosholder/on-fire-bot/node_modules/monkey-hot-loader/index.js!/Users/mmosholder/on-fire-bot/node_modules/babel-loader/lib/index.js!/Users/mmosholder/on-fire-bot/src/main.js": "e4aaf4c7973976adb94f1b9b828cacf2"
+  },
+  "chunkHashs": {
+    "0": "abdddc8520dacc5c9b201f645bfecfdd"
+  },
+  "chunkModuleIds": {
+    "0": [
+      0,
+      1,
+      2
+    ]
+  }
+}
