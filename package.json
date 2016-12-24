@@ -7,6 +7,11 @@
     "type": "git",
     "url": "git+https://github.com/mmosholder/on-fire-bot.git"
   },
+  "scripts": {
+    "build": "npm install && gulp",
+    "prestart": "npm install",
+    "postinstall": "gulp"
+  },
   "author": "Malinda Mosholder",
   "license": "ISC",
   "bugs": {
@@ -38,6 +43,7 @@
     "imports-loader": "^0.7.0",
     "json-loader": "^0.5.4",
     "nba": "^3.2.0",
+    "node-rest-client": "^2.0.1",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
     "twit": "^2.2.5",

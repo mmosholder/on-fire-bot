@@ -1,0 +1,74 @@
+[
+  {
+    "firstName": "Steven",
+    "lastName": "Adams",
+    "playerId": 203500,
+    "teamId": 1610612760
+  },
+  {
+    "firstName": "Giannis",
+    "lastName": "Antetokounmpo",
+    "playerId": 203507,
+    "teamId": 1610612749
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Bazemore",
+    "playerId": 203145,
+    "teamId": 1610612737
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Beverley",
+    "playerId": 201976,
+    "teamId": 1610612745
+  },
+  {
+    "firstName": "DeMarcus",
+    "lastName": "Cousins",
+    "playerId": 202326,
+    "teamId": 1610612758
+  },
+  {
+    "firstName": "Stephen",
+    "lastName": "Curry",
+    "playerId": 201939,
+    "teamId": 1610612744
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Davis",
+    "playerId": 203076,
+    "teamId": 1610612740
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "Lillard",
+    "playerId": 203081,
+    "teamId": 1610612757
+  },
+  {
+    "firstName": "DeMar",
+    "lastName": "DeRozan",
+    "playerId": 201942,
+    "teamId": 1610612761
+  },
+  {
+    "firstName": "Russell",
+    "lastName": "Westbrook",
+    "playerId": 201566,
+    "teamId": 1610612760
+  },
+  {
+    "firstName": "James",
+    "lastName": "Harden",
+    "playerId": 201935,
+    "teamId": 1610612745
+  },
+  {
+    "firstName": "LeBron",
+    "lastName": "James",
+    "playerId": 2544,
+    "teamId": 1610612739
+  }
+]
